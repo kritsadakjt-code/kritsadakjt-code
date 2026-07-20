@@ -1,12 +1,11 @@
 # Hi, I'm Kritsada 👋
 
-Recent graduate seeking a **Software Engineer** role focused on **backend systems** and **distributed architecture** building scalable.
+Recent graduate seeking a **Software Engineer** role focused on **backend systems** and **distributed architecture** to build scalable, **fault-tolerant systems**.
 
 I'm interested in how **large-scale systems** are designed which technologies
 help them serve massive **numbers of users** reliably, which tools fit each
 problem, and what **trade-offs** come with every choice. Every engineering
-decision has a cost—whether in **complexity**, **latency**, **consistency**,
-**operational overhead**. I'm especially interested in **failure
+decision has a cost—whether in **complexity**, **latency**, **consistency**, or **operational overhead**. I'm especially interested in **failure
 handling**, **observability**, and designing systems that can **recover gracefully**.
 
 ## Tech Stack
