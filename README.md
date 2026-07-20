@@ -1,6 +1,6 @@
 # Hi, I'm Kritsada 👋
 
-Recent graduate seeking a **Software Engineer** role focused on **backend systems** and **distributed architecture** to build scalable, **fault-tolerant systems**.
+Recent Computer Science graduate seeking a **Software Engineer** or **Backend Engineer** role focused on **backend systems** and **distributed architecture** to build scalable, **fault-tolerant systems**.
 
 I'm interested in how **large-scale systems** are designed which technologies
 help them serve massive **numbers of users** reliably, which tools fit each
@@ -49,5 +49,5 @@ and Debezium.
 
 ## Reach me
 
-- **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
-- **Email:** kritsada.example@gmail.com
+- **LinkedIn:** [linkedin.com/in/kritsada kongchantha](https://www.linkedin.com/in/kritsada-kjt)
+- **Email:** kritsada.kjt@gmail.com
