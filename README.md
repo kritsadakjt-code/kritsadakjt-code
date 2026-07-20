@@ -26,22 +26,29 @@ handling**, **observability**, and designing systems that can **recover graceful
 ## Featured Projects
 
 **[social-media](https://github.com/kritsadakjt-code/social-media)**
-Event-driven social media backend — NestJS microservices, gRPC, Kafka
-(Confluent Schema Registry + Avro), RabbitMQ, the Outbox/DLQ pattern,
-distributed rate limiting, and Redis Streams-based feed fan-out.
+Event-driven social media backend built for high concurrency. Designed with NestJS microservices, gRPC, Kafka (Confluent Schema Registry), RabbitMQ, and WebSockets. Leveraging Redis for multi-faceted operations: distributed rate limiting, real-time Pub/Sub for chat, feed fan-out, and atomic counters for social metrics. Resiliency handled via the Outbox/DLQ pattern.
 
 **[pigfarm-backend](https://github.com/kritsadakjt-code/pigfarm-backend)**
-Farm management REST API — Go, Fiber, Clean Architecture, JWT auth with
-enforced role-based access, and an automated background scheduler.
+REST API for pig farm operations pig/breeding/stock tracking, automated
+feeding schedules via a background scheduler, and admin user management
+with an approval workflow. Go, Fiber, Clean Architecture, JWT + enforced
+role-based access, PostgreSQL/GORM
 
 **[pig-farm-frontend](https://github.com/kritsadakjt-code/pig-farm-frontend)**
-Admin dashboard for the API above — React 19, Vite, Tailwind CSS.
+A Single-Page Application serving as the operational staff dashboard for
+[pigfarm-backend](https://github.com/kritsadakjt-code/pigfarm-backend),
+with role-based access. Built with React 19, Vite, and Tailwind CSS.
+Features dynamic role-based UI adaptation, centralized API requests via
+Axios interceptors (JWT auth), and production-ready deployment on Vercel
+with SPA rewrite configuration.
 
-## Currently learning
+## Next Up (Learning Roadmap)
 
-CI/CD (GitHub Actions), observability (OpenTelemetry, Prometheus, Grafana,
-Jaeger), and Kubernetes.
+CI/CD (GitHub Actions), observability (OpenTelemetry,
+Prometheus, Grafana, Jaeger), load testing (k6), Kubernetes, Elasticsearch,
+and Debezium.
 
 ## Reach me
 
-[LinkedIn](#) · [Email](#)
+- **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
+- **Email:** kritsada.example@gmail.com
