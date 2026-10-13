@@ -1,4 +1,4 @@
-# Hi, I'm Kritsada 👋
+# Hi, I'm Kritsada 
 
 Recent Computer Science graduate seeking a **Software Engineer** or **Backend Engineer** role focused on **backend systems** and **distributed architecture** to build scalable, **fault-tolerant systems**.
 
